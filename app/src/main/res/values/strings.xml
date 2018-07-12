@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DataBindingApp</string>
+
+    <string name="name">Name:</string>
+    <string name="mobile">Mobile:</string>
+    <string name="email">Email:</string>
+    <string name="update">Update</string>
+    <string name="enter_mobile">Enter Mobile No.</string>
+    <string name="fill_field">Please enter both Name and Mobile No. to proceed!!</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
